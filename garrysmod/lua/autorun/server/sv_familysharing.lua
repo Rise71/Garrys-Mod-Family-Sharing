@@ -2,7 +2,7 @@
 Credits :
 C0nw0nk
 
-Github : https://github.com/C0nw0nk/Garrys-Mod-Family-Sharing
+Githu : https://github.com/C0nw0nk/Garrys-Mod-Family-Sharing
 
 Info :
 This script will make it very hard for users who you ban from your server to return or bypass their current/existing bans.
